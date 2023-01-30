@@ -1,0 +1,7 @@
+C:\createaworld\FileDelete\bin\Debug\FileDelete.exe.config
+C:\createaworld\FileDelete\bin\Debug\FileDelete.exe
+C:\createaworld\FileDelete\bin\Debug\FileDelete.pdb
+C:\createaworld\FileDelete\obj\Debug\FileDelete.exe
+C:\createaworld\FileDelete\obj\Debug\FileDelete.pdb
+C:\createaworld\FileDelete\obj\Debug\FileDelete.csprojAssemblyReference.cache
+C:\createaworld\FileDelete\obj\Debug\FileDelete.csproj.CoreCompileInputs.cache
